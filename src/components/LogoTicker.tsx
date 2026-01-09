@@ -1,10 +1,11 @@
 "use client";
 
 import { motion } from "framer-motion";
+import React from "react";
 
 type Logo = {
   name: string;
-  render: () => JSX.Element;
+  render: () => React.ReactElement;
 };
 
 const BraveLogo = () => (
