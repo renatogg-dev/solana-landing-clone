@@ -96,8 +96,8 @@ src/
 ## 🏁 Run the Project Locally
 
 ```bash
-git clone https://github.com/renatogg-dev/figma-to-code.git
-cd figma-to-code/pixel-perfect-landing
+git clone https://github.com/renatogg-dev/solana-landing-clone.git
+cd pixel-perfect-landing
 npm install
 npm run dev
 ```
